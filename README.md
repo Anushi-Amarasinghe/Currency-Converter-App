@@ -67,6 +67,7 @@ Clone this repository to get started with the project:
 ```bash
 git clone https://github.com/your-Anushi-Amarasinghe/currency-converter-App.git
 cd currency-converter
+```
 
 ## Step 3: Handling Asynchronous Calls
 
@@ -110,7 +111,7 @@ public class CurrencyConverter
         public Dictionary<string, decimal> ConversionRates { get; set; }
     }
 }
-
+```
 ## Step 4: Running the Program
 
 Once the program is set up, simply compile and run the application. You will be able to input values, select currencies, and see the results in real-time on the graphical interface.
@@ -121,7 +122,7 @@ To run the project, use the following command:
 
 ```bash
 dotnet run
-
+```
 ## Additional Resources
 
 - [SplashKit Documentation](https://www.splashkit.io/docs/)
