@@ -1,0 +1,17 @@
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\bin\Debug\net9.0\mydrawing.exe
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\bin\Debug\net9.0\mydrawing.deps.json
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\bin\Debug\net9.0\mydrawing.runtimeconfig.json
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\bin\Debug\net9.0\mydrawing.dll
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\bin\Debug\net9.0\mydrawing.pdb
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\mydrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\mydrawing.AssemblyInfoInputs.cache
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\mydrawing.AssemblyInfo.cs
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\mydrawing.csproj.CoreCompileInputs.cache
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\mydrawing.dll
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\refint\mydrawing.dll
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\mydrawing.pdb
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\mydrawing.genruntimeconfig.cache
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\ref\mydrawing.dll
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\mydrawing.csproj.AssemblyReference.cache
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Anushi Amarasinghe\Desktop\mydrawing\obj\Debug\net9.0\mydrawing.csproj.Up2Date
